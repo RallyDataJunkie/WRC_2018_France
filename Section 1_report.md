@@ -12,3 +12,10 @@ The full scheduled itinerary for the section was as follows:
 	- 11:06:00 TC2 Piedigriggio (63.89km) [01:16:00]
 	- 11:09:00 SS2 Piedigriggio - Pont de Castirla 1 (13.55km) [00:03:00]
 	- 12:22:00 TC2A Regroup & Technical Zone IN - Bastia airport (59.7km) [01:13:00]
+
+### Section 1 Report
+Section 1
+
+![](images/spchart_stage_Section 1.png)Section 1
+
+![](images/spchart_overall_Section 1.png)
