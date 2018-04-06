@@ -9,3 +9,5 @@ The full scheduled itinerary for the section was as follows:
 	- 09:20:00 TC11 Vero (111.28km) [02:05:00]
 	- 09:23:00 SS11 Vero - Sarrola-Carcopino (55.17km) [00:03:00]
 	- 10:55:00 TC11A Regroup & Technical Zone IN - Porticcio (77.47km) [01:32:00]
+
+### Section 7 Report

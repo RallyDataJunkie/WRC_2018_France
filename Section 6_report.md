@@ -10,3 +10,5 @@ The full scheduled itinerary for the section was as follows:
 	- 20:00:00 TC10A Technical Zone IN - Bastia airport (67.09km) [01:21:00]
 	- 20:10:00 TC10B Technical Zone OUT - Flexi Service IN  [00:10:00]
 	- 20:55:00 TC10C Flexi Service OUT & Parc Ferme IN - Bastia airport  [00:45:00]
+
+### Section 6 Report

@@ -1,9 +1,9 @@
 ## Group RGT:
 
 
-- Marc VALLICCIONI (FRA) and Marie Josee CARDI (FRA) from the MARC VALLICCIONI.
-- John COYNE (IRL) and co-driver Stephen JOYCE (IRL) for the JOHN COYNE.
-- Raphael ASTIER (FRA) and co-driver Frederic VAUCLARE (FRA) for the RAPHAEL ASTIER.
-- Andrea NUCITA (ITA) and co-driver Marco VOZZO (ITA) from the ANDREA NUCITA.
-- Philippe GACHE (FRA) and co-driver Nicolas RIVIERE (FRA) of the PHILIPPE GACHE.
-- Andrea MODANESI (ITA) and co-driver Marco MENCHINI (CHE) for the ANDREA MODANESI.
+- Marc VALLICCIONI (FRA) and Marie Josee CARDI (FRA) of the MARC VALLICCIONI.
+- John COYNE (IRL) and Stephen JOYCE (IRL) of the JOHN COYNE.
+- Raphael ASTIER (FRA) and Frederic VAUCLARE (FRA) for the RAPHAEL ASTIER.
+- Andrea NUCITA (ITA) and Marco VOZZO (ITA) of the ANDREA NUCITA.
+- Philippe GACHE (FRA) and co-driver Nicolas RIVIERE (FRA) from the PHILIPPE GACHE.
+- Andrea MODANESI (ITA) and co-driver Marco MENCHINI (CHE) from the ANDREA MODANESI.

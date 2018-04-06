@@ -11,3 +11,8 @@ The full scheduled itinerary for the section was as follows:
 	- 16:59:00 TC9 Casta (78.61km) [01:38:00]
 	- 17:02:00 SS9 Desert des Agriates 2 (15.45km) [00:03:00]
 	- 17:41:00 TC9A Regroup IN - Lile Rousse (32.71km) [00:39:00]
+
+### Section 5 Report
+Section 5
+
+![](images/spchart_stage_Section 5.png)
