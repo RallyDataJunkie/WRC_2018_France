@@ -10,3 +10,11 @@ The full scheduled itinerary for the section was as follows:
 	- 13:33:00 TC12A Finish - Holding IN - Ajaccio (Av de Paris) (48.52km) [01:15:00]
 
 ### Section 8 Report
+
+Stage Result - SS12
+
+|Driver|Team|Elapsed Duration|Position|Class Rank|diffFirst|diffPrev|
+|------|----|----------------|--------|----------|---------|--------|
+
+
+
