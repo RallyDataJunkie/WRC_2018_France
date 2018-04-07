@@ -13,3 +13,8 @@ The full scheduled itinerary for the section was as follows:
 	- 17:41:00 TC9A Regroup IN - Lile Rousse (32.71km) [00:39:00]
 
 ### Section 5 Report
+Section 5
+
+![](images/spchart_stage_Section 5.png)Section 5
+
+![](images/spchart_overall_Section 5.png)
