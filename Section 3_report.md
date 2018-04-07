@@ -15,4 +15,6 @@ The full scheduled itinerary for the section was as follows:
 ### Section 3 Report
 Section 3
 
-![](images/spchart_stage_Section 3.png)
+![](images/spchart_stage_Section 3.png)Section 3
+
+![](images/spchart_overall_Section 3.png)
