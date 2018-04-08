@@ -35,10 +35,10 @@ Stage Result - SS8
 |EVA   |M-SPORT FORD WORLD RALLY TEAM|00:21:59.2000000|       7|         7|00:00:14.5000000|00:00:03.2000000|
 |SOR   |HYUNDAI SHELL MOBIS WRT      |00:22:03        |       8|         8|00:00:18.3000000|00:00:03.8000000|
 |MIK   |HYUNDAI SHELL MOBIS WRT      |00:22:06.6000000|       9|         9|00:00:21.9000000|00:00:03.6000000|
-|MIE   |MAURO MIELE                  |00:24:23.2000000|      19|        10|00:02:38.5000000|00:00:09.1000000|
-|PER   |ARMANDO PEREIRA              |00:27:03.9000000|      50|        11|00:05:19.2000000|00:00:00.6000000|
-|BOU   |M-SPORT FORD WORLD RALLY TEAM|00:28:44.7000000|      63|        12|00:07:00        |00:00:02        |
-|LAT   |TOYOTA GAZOO RACING WRT      |00:28:44.7000000|      64|        13|00:07:00        |00:00:00        |
+|MIE   |MAURO MIELE                  |00:24:23.2000000|      20|        10|00:02:38.5000000|00:00:09.1000000|
+|PER   |ARMANDO PEREIRA              |00:27:03.9000000|      51|        11|00:05:19.2000000|00:00:00.6000000|
+|BOU   |M-SPORT FORD WORLD RALLY TEAM|00:28:44.7000000|      64|        12|00:07:00        |00:00:02        |
+|LAT   |TOYOTA GAZOO RACING WRT      |00:28:44.7000000|      65|        13|00:07:00        |00:00:00        |
 |VAU   |ALAIN VAUTHIER               |                |      86|        14|                |                |
 
 
@@ -58,10 +58,10 @@ Stage Result - SS9
 |EVA   |M-SPORT FORD WORLD RALLY TEAM|00:08:39.6000000|       8|         8|00:00:08.5000000|00:00:02.9000000|
 |MIK   |HYUNDAI SHELL MOBIS WRT      |00:08:40.6000000|       9|         9|00:00:09.5000000|00:00:01        |
 |MIE   |MAURO MIELE                  |00:09:18.8000000|      19|        10|00:00:47.7000000|00:00:01.2000000|
-|PER   |ARMANDO PEREIRA              |00:10:24.2000000|      49|        11|00:01:53.1000000|00:00:00.6000000|
-|BOU   |M-SPORT FORD WORLD RALLY TEAM|                |      74|        12|                |                |
-|LAT   |TOYOTA GAZOO RACING WRT      |                |      75|        13|                |                |
-|VAU   |ALAIN VAUTHIER               |                |      85|        14|                |                |
+|PER   |ARMANDO PEREIRA              |00:10:24.2000000|      51|        11|00:01:53.1000000|00:00:00.6000000|
+|BOU   |M-SPORT FORD WORLD RALLY TEAM|00:15:31.1000000|      72|        12|00:07:00        |00:02:37.7000000|
+|LAT   |TOYOTA GAZOO RACING WRT      |00:15:31.1000000|      73|        13|00:07:00        |00:00:00        |
+|VAU   |ALAIN VAUTHIER               |                |      86|        14|                |                |
 
 
 

@@ -25,12 +25,12 @@ Stage Result - SS10
 |SOR   |HYUNDAI SHELL MOBIS WRT      |00:11:11.7000000|       6|         6|00:00:04.6000000|00:00:00.6000000|
 |MIK   |HYUNDAI SHELL MOBIS WRT      |00:11:15        |       7|         7|00:00:07.9000000|00:00:03.3000000|
 |OGI   |M-SPORT FORD WORLD RALLY TEAM|00:11:15.2000000|       8|         8|00:00:08.1000000|00:00:00.2000000|
-|MIE   |MAURO MIELE                  |                |      25|         9|                |                |
-|MEE   |CITROEN TOTAL ABU DHABI WRT  |                |      41|        10|                |                |
-|BOU   |M-SPORT FORD WORLD RALLY TEAM|                |      42|        11|                |                |
-|LAT   |TOYOTA GAZOO RACING WRT      |                |      43|        12|                |                |
-|PER   |ARMANDO PEREIRA              |                |      71|        13|                |                |
-|VAU   |ALAIN VAUTHIER               |                |      72|        14|                |                |
+|MIE   |MAURO MIELE                  |00:12:45        |      18|         9|00:01:37.9000000|00:00:06.6000000|
+|PER   |ARMANDO PEREIRA              |00:14:20        |      45|        10|00:03:12.9000000|00:00:00.2000000|
+|LAT   |TOYOTA GAZOO RACING WRT      |00:18:07.1000000|      69|        11|00:07:00        |00:00:01.8000000|
+|MEE   |CITROEN TOTAL ABU DHABI WRT  |00:21:07.1000000|      78|        12|00:10:00        |00:00:46.3000000|
+|BOU   |M-SPORT FORD WORLD RALLY TEAM|                |      82|        13|                |                |
+|VAU   |ALAIN VAUTHIER               |                |      86|        14|                |                |
 
 
 
